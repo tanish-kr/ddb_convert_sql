@@ -1,5 +1,5 @@
 # DdbConvertSql
-
+https://travis-ci.org/tatsu07/ddb_convert_sql.svg
 TODO: Write a gem description
 
 ## Installation
